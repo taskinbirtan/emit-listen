@@ -1,0 +1,20 @@
+{
+  "name": "taskinbirtan/emit-listen",
+  "description": "A simple emit/listener package",
+  "type": "library",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "TaskinBirtan\\EmitListen\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Birtan Taskin",
+      "email": "taskinbirtan@gmial.com"
+    }
+  ],
+  "license": "MIT"
+}
